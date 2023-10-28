@@ -1,0 +1,19 @@
+- Criar um repositório com o nome: check-point-front-02
+- Clonar o repositório e criar um branch com o nome web-front
+- Fazer os seguintes exercícios:
+ 1 - Criar um arquivo JavaScript, com o nome series.js
+ 2 - No arquivo filmes.js, armazene em uma constante "my3FavoriteTVShows" suas 3 séries favoritas;
+  Exemplo: const my3FavoriteTVShows = ["Cidade de Deus", "Sintonia", "Última parada"];
+ 3 - Exiba no console um boolean indicando se o array de séries que você criou  
+    possui 3 itens
+  Exemplo: Fazer uma verificação, utilizando operador ===
+ 4 - Criar um novo arquivo JavaScript, com o nome animals.js
+ 5 - No arquivo animals.js, armazene em uma constante animals uma array com alguns Animais
+  Exemplo: const animals = ["macaco", "tucano", "elefante", "pavão", "hipopótamo", "leão"];
+ 6 - Faça o seguinte:
+   - Abaixo do array "animals", verifique se o animal "leão" **não** existe no  
+    array. Se não existir, exiba no console a mensagem "Leão não existe no array  
+    animals.";
+  - Se existir, exiba no console a mensagem "Existe um leão no array animals.".
+  Dica: Usar includes includes e o operador !(Diferente)
+ 7 - Enviar o link do gitHub na tarefa.
